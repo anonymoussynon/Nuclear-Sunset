@@ -5,7 +5,9 @@ hide_title: true
 
 # ![donationspage](https://github.com/user-attachments/assets/0dfff837-6d17-49a5-8d8a-e9d2cb3fb437)
 
-We do not accept donations on behalf of Nuclear Sunset, though would love to redirect you to some of our favorite charities.
+**We do not accept donations on behalf of Nuclear Sunset, though would love to redirect you to some of our favorite charities.**
+
+
 
 # <p align="center"> ![Gamers_Outreach_logo___light_bg](https://github.com/user-attachments/assets/b83d75a6-92cb-4d48-b30d-b4814f9df51d) [Gamer's Outreach](https://gamersoutreach.org/donate/) </p>
 
