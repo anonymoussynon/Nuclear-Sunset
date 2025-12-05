@@ -3,7 +3,7 @@ title: Donations
 hide_title: true
 ---
 
-# ![donationspage](https://github.com/user-attachments/assets/33bef0b9-b1ea-4d01-979e-8053dcb97dc2)
+# ![donationspage](https://github.com/user-attachments/assets/0dfff837-6d17-49a5-8d8a-e9d2cb3fb437)
 
 We do not accept donations on behalf of Nuclear Sunset, though would love to redirect you to some of our favorite charities.
 
