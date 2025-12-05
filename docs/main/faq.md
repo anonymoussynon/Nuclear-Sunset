@@ -17,24 +17,24 @@ For any installation errors, launch crashes, or launch freezes, perform these st
 Expand - Troubleshooting Steps
 </summary>
 
-- Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/main/requirements).
-- Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/main/setup#-installing-uranium-fever-).
-- Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/main/requirements).
-- Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/main/setup#-creating-antivirus-exclusions-).
+- Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://nuclearsunset.net/docs/main/requirements).
+- Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Nuclear Sunset](https://nuclearsunset.net/docs/main/setup#-installing-nuclear-sunset-).
+- Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://nuclearsunset.net/docs/main/requirements).
+- Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://nuclearsunset.net/docs/main/setup#-creating-antivirus-exclusions-).
 - Disable or uninstall any 3rd party antivirus.
 - Disable any VPN.
 - Disable any overlay like Steam, Overwolf, Afterburner, Discord, Nvidia, etc. | Xbox Game Bar does not need disabling.
 - Disable Windows Defender.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
-- Right click the Uranium Fever folder and uncheck Read-only.
+- Right click the Nuclear Sunset folder and uncheck Read-only.
 - Restart your computer.
 - Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizer 2.
-- Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
-- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Uranium Fever > Mods` folder.
-- Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/main/setup#-running-4gb-patcher-) step.
-- If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
-- If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-unmodified-list](https://discord.gg/WswmBGXQZt) Discord channel.
+- Re-run the Nuclear Sunset Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
+- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.net/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
+- Repeat the [Running 4GB Patcher](https://nuclearsunset.net/docs/main/setup#-running-4gb-patcher-) step.
+- If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.net/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- If issues persist, delete the `Nuclear Sunset` folder and restart the installation process from the beginning.
+- For further help, share your crash log (found in `Nuclear Sunset > [NoDelete] Stock New Vegas > Crash Logs`) in the (TODO: Add link) [support-unmodified-list] Discord channel.
 </details>
 :::
 
@@ -42,28 +42,28 @@ Expand - Troubleshooting Steps
   - Partially. The Fallout: New Vegas modding community lacks high quality 3rd person animation replacers, which impacts both aesthetics and balance. We recommend only using 3rd person as a vanity camera.
 
 - **4GB Patcher - I am a GOG user and a 4GB patch is already bundled with GOG. I don't think 4GB patcher is necessary for me and I am much more stable without it.**
-  - This is a different utility than the one instructed for use with Uranium Fever. The 4GB patcher you are instructed to use patches the game to use xNVSE. Without running it, you are not playing with the majority of the mods included in Uranium Fever.
+  - This is a different utility than the one instructed for use with Nuclear Sunset. The 4GB patcher you are instructed to use patches the game to use xNVSE. Without running it, you are not playing with the majority of the mods included in Nuclear Sunset.
 
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
-  - These abbreviations help organize and maintain Uranium Fever:
+  - These abbreviations help organize and maintain Nuclear Sunset:
     - **ALT** - Altered mod.
     - **OP** - Optimized mod.
     - **MG** - Plugin merged into a master patch.
     - **HID** - Plugin hidden following merge.
     - **FL** - Plugin flagged as ESM.
-    - **INF** - Mod integrated into the Uranium Fever Wabbajack Installer.
+    - **INF** - Mod integrated into the Nuclear Sunset Wabbajack Installer.
     - **AEN** - Mod included but defaults to disabled.
     - **CDN** - Mod hosted on the Wabbajack server.
     - **BOS** - Mod utilized base object swapper.
-    - **SOFT AF** - These mods were created by OrgasmicSneeze, specifically for Uranium Fever.
+    - **SOFT AF** - These mods were created by OrgasmicSneeze, specifically for Nuclear Sunset.
     - **HQ, SQ, LQ, VLQ, UL, DB** - Mod enabled or disabled in High, Standard, Low, Very Low Quality, Unloaded, or Debug profiles.
 
-- **Addiction - How does addiction work in Uranium Fever?**
+- **Addiction - How does addiction work in Nuclear Sunset?**
   - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
   - Paying a doctor to addres your addiction or using a fixer will provide a period of immunity against the negative effects of the addiction. The addiction will still naturally recover at the same rate.
 
 - **Adding Mods - How do I add ___ mod?**
-  - The Uranium Fever support team will not provide any advice or instructions on how to add mods to Uranium Fever. You may do so at your own risk, though you void any support by doing so.
+  - The Nuclear Sunset support team will not provide any advice or instructions on how to add mods to Nuclear Sunset. You may do so at your own risk, though you void any support by doing so.
 
 - **Ammo Types - There are several different types of ammo included in each caliber. What do they each do?**
   - **AP** - Expensive and uncommon. Reduces weapon damage, but significantly reduces enemy DT (Damage Threshold). Very effective against large, powerful, armored enemies.
@@ -73,15 +73,15 @@ Expand - Troubleshooting Steps
   - **Other** - Other unnoted types of ammo (SWC, JSP, Match, etc) are special ammo types that typically trump standard ammo types in some fashion.
 
 - **Application Load Error P:0000065432 - How do I fix this error?**
-  - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-).
+  - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-).
 - **Application Load Error P:0000065434 - How do I fix this error?**
-  - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://uraniumfever.net/docs/main/setup#-generating-fresh-ini-files-) and [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-) steps.
+  - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://nuclearsunset.net/docs/main/setup#-generating-fresh-ini-files-) and [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-) steps.
 
 - **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
-  - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://uraniumfever.net/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
+  - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://nuclearsunset.net/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
  
 - **Black screen with crash when launching?**
-  - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Uranium Fever folder, and launch from MO2 as normal.
+  - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Nuclear Sunset folder, and launch from MO2 as normal.
  
 - **Black screen with no crash and you can hear the startup music?**
   - This is caused by an unresolvable bug with NVR. Simply close the game and relaunch.
@@ -103,7 +103,7 @@ Expand - Troubleshooting Steps
   - The recruitment of companions is dependent on the player's permanent charisma (this does not take modifiers such as equipment or chems into account. The player can recruit one companion at 4 charisma, two companions at 7 charisma, and 3 companions at 10 charisma.
 
 - **Controller Support - Is there controller support?**
-  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://uraniumfever.net/docs/main/controller).
+  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.net/docs/main/controller).
 
 - **Console Commands - Can I safely use console commands when playing?**
   - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
@@ -164,26 +164,26 @@ Expand - Troubleshooting Steps
   - It is been removed due to unresolvable bugs in the base implementation.
 
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
-  - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/main/requirements).
+  - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://nuclearsunset.net/docs/main/requirements).
 
 - **Failed or Slow Nexus Downloads - Why are my downloads slow or failing?**  
   - Relog into your Nexus account in the Wabbajack settings.
 
-- **Fallout 3 - Is Fallout 3 absolutely required to play Uranium Fever?**  
-  - Yes. There is no way to play Uranium Fever without owning Fallout 3 and the associated DLCs.
+- **Fallout 3 - Is Fallout 3 absolutely required to play Nuclear Sunset?**  
+  - Yes. There is no way to play Nuclear Sunset without owning Fallout 3 and the associated DLCs.
 
-- **Fast Traveling - Can I fast travel in Uranium Fever?**  
+- **Fast Traveling - Can I fast travel in Nuclear Sunset?**  
   - Yes. The only circumstances in which fast travel is prohibited is when over-encumbered, while in combat, or while prohibited by quest content.
 
 - **First Time Playing - Is this list suitable for a Fallout newcomer?**  
-  - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
+  - Yes. This list is ideal for anyone seeking a challenging experience. If Nuclear Sunset feels overwhelming, consider other TTW/FNV Wabbajack lists.
 
 - **First Time Playing - I want to experience the intro sequence.**  
-  - To experience the intro sequence, disable the `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.  
+  - To experience the intro sequence, disable the `Quick Start - Wasteland Starting Gear - Nuclear Sunset Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.  
   - Please note the intro sequence is known to be associated with bugs, and we will not provide support for these bugs.
 
 - **First Time Playing - Do you have any tips on how to be successful?**  
-  - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Uranium Fever, despite this being contrary to standard Fallout: New Vegas.
+  - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Nuclear Sunset, despite this being contrary to standard Fallout: New Vegas.
   - Choose two weapon skills to focus on at the start of the game. Ammo is scarce, as are skill points. Melee is powerful, though weapons break easily.
   - All perks and traits have been overhauled. Review their effects carefully, as they may have unintended consequences later on.
   - Trash is important. Scavenge for everything possible. Selling trash will be important to gaining enough caps to afford food, ammo, and aid.
@@ -192,16 +192,16 @@ Expand - Troubleshooting Steps
   - Chems and alcohol can give strong transient buffs, though are also associated with severe drawbacks during times of addiction. Visiting a doctor about the player's addiction will only help for a period of time while the player takes time to naturally recover from their addiction.
   - Some crafting items have unexpected uses. Study crafting stations carefully.
   - Carry multiple weapons that require different ammo types. Ammo scarcity will require you to switch weapons frequently.
-  - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
+  - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Nuclear Sunset has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
-- **FPS/Stutter - How can I increase FPS/Reduce Stutter in Uranium Fever?**  
-  - If using NVIDIA, ensure that the [Applying NVIDIA Profile](https://uraniumfever.net/docs/main/setup#-nvidia-users---applying-nvidia-profile-) instructions have been followed.
-  - If using AMD, ensure that the [Disabling Ultra-Low Power State (ULPS)](https://uraniumfever.net/docs/main/setup#-amd-users---disabling-ultra-low-power-state-ulps-) instructions have been followed.
-  - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/main/setup#-selecting-a-uranium-fever-profile-) quality.
-  - Reduce the `Detail` quality in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-).
-  - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
-  - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/resources/lossless).
-    - Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
+- **FPS/Stutter - How can I increase FPS/Reduce Stutter in Nuclear Sunset?**  
+  - If using NVIDIA, ensure that the [Applying NVIDIA Profile](https://nuclearsunset.net/docs/main/setup#-nvidia-users---applying-nvidia-profile-) instructions have been followed.
+  - If using AMD, ensure that the [Disabling Ultra-Low Power State (ULPS)](https://nuclearsunset.net/docs/main/setup#-amd-users---disabling-ultra-low-power-state-ulps-) instructions have been followed.
+  - Reduce the [Nuclear Sunset Profile](https://nuclearsunset.net/docs/main/setup#-selecting-a-nuclear-sunset-profile-) quality.
+  - Reduce the `Detail` quality in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-).
+  - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
+  - Consider trying [Lossless Scaling](https://nuclearsunset.net/docs/resources/lossless).
+    - Please note that the Nuclear Sunset team has no affiliation with Lossless Scaling and does not provide support for it.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
@@ -210,13 +210,13 @@ Expand - Troubleshooting Steps
   - Enter 3rd person, open the console with the ` key, type TFC, then press enter. You can move your camera around as needed to view your character. Type TFC into console again to exit freecam.
 
 - **Gambling - I used to be able to easily win gambling and earn free money, but I can't anymore. Why?**
-  - Luck no longer affects gambling in UF to prevent abuse of the economy.
+  - Luck no longer affects gambling in NS to prevent abuse of the economy.
 
 - **Hardcore - Can I disable the hardcore mode?**  
-  - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
+  - No. Many mods in Nuclear Sunset rely on hardcore mode, and the list is designed around it.
 
 - **Hardercore - What changes does the Hardercore Optional Mod change?**  
-  - The changes for hardercore can be found in the [Optional Mods Section](https://uraniumfever.net/docs/main/setup#-optional-mods-) of the Setup Instructions
+  - The changes for hardercore can be found in the [Optional Mods Section](https://nuclearsunset.net/docs/main/setup#-optional-mods-) of the Setup Instructions
 
 - **Healing - When I pay a doctor to heal me, I do not heal fully. Why?**  
   - This is an intentional balance design. You will need to pay for several different healing sessions or heal through other means to fully heal.
@@ -238,20 +238,20 @@ Expand - Troubleshooting Steps
 - **Items - Where is ___ item located? It used to be in this very specific location!**  
   - Please enjoy the thrill of discovery, rather than focusing on what used to be. Any missing items you encounter have been relocated as part of an intentional overhaul. No, we will not tell you the new location.
 
-- **Keybinds - How can I view Uranium Fever’s keybinds?**  
+- **Keybinds - How can I view Nuclear Sunset’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches unmodded/vanilla Fallout: New Vegas. How do I fix it?**
-  - Re-run the Uranium Fever Wabbajack installer, it will fix repair any incorrect filepaths.
+- **Launch/Start - When I launch Nuclear Sunset after finishing the installation process, it launches unmodded/vanilla Fallout: New Vegas. How do I fix it?**
+  - Re-run the Nuclear Sunset Wabbajack installer, it will fix repair any incorrect filepaths.
   - Ensure the game is not being launched from the launcher.
 
 - **Leaning - Is there a way to toggle leaning?**
   - Yes. Activate the `Keybinds - F Activates, Q & E Lean` mod in the `Optional - Settings` separator.
 
-- **Loading & Saving - In Skyrim I am told I can't quicksave or quickload. Is this also true in Uranium Fever?**
+- **Loading & Saving - In Skyrim I am told I can't quicksave or quickload. Is this also true in Nuclear Sunset?**
   - No. Quicksaves, autosaves, and full saves are also functionally similar, and none of these negatively impact the game. Similarly, reloading will not negatively impact your game.
 
-- **Level Cap - What is the level cap in Uranium Fever?**  
+- **Level Cap - What is the level cap in Nuclear Sunset?**  
   - 60, as set by Tale of Two Wastelands.
 
 - **Long Load Screens - I have very long load screens, why?**  
@@ -267,28 +267,28 @@ Expand - Troubleshooting Steps
   - The formula now depends on intelligence, science, repair, and explosives levels. The player must be a defusal skill level of 90, which is calculated by the defusal skill formula, `((Intelligence * Science) * .05) + Repair + Explosives`.
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
-  - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
+  - A backup is pre-bundled with Nuclear Sunset. You can either restore from the backup or re-run the Nuclear Sunset Wabbajack Installer, which will revert the modlist and load order to default configuration.
 
 - **Mod Organizer 2 - Mod Organizer 2 isn't locking when I launch the game. Why?**
   - This is intentional in order to avoid long refresh times with BSA archive parsing enabled.
 
-- **Modularity - Can I customize Uranium Fever to my preferences?**  
-  - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, modified lists are unsupported.
+- **Modularity - Can I customize Nuclear Sunset to my preferences?**  
+  - Nuclear Sunset is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, modified lists are unsupported.
 
 - **Mod Configuration Menu (MCM) - Can I change settings in the MCM?**
   - Doing so is considered modifying the list and will invalidate support.
 
-- **Modifying Uranium Fever - Can I modify the mods?**
-  - Modifying the list voids official support. Use the [uf-support-modified-list](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
+- **Modifying Nuclear Sunset - Can I modify the mods?**
+  - Modifying the list voids official support. Use the (TODO: Add link to channel) support-modified-list Discord channel for community assistance.
 
-- **Mods - Why are there so many empty mods or mods that are completely overwritten in Uranium Fever?**
+- **Mods - Why are there so many empty mods or mods that are completely overwritten in Nuclear Sunset?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
 
-- **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
+- **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Nuclear Sunset installation?**
   - It is no longer recommended. xNVSE has built in changes to the vanilla heap that are superior to those found in NVHR, but without the massively increased memory usage that results from NVHR.
 
 - **Nexus Upload - A new update to LODGen/Facegen/SOFT AF was posted to the Nexus page. Should I download it?**
-  - No. This was uploaded in preparation for a future update, and may break the game if downloaded in isolation. Mods should only be updated when included as part of Uranium Fever update or when instructed to.
+  - No. This was uploaded in preparation for a future update, and may break the game if downloaded in isolation. Mods should only be updated when included as part of Nuclear Sunset update or when instructed to.
 
 - **NoDelete - What does [NoDelete] mean?**  
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
@@ -296,16 +296,16 @@ Expand - Troubleshooting Steps
 - **NVIDIA Profile Inspector Unhandled Exception - I received an error that there is an unhandled exception when trying to run the NVIDIA Profile Inspector. How do I fix it?**
   - Update or reinstall your graphics card drivers.
 
-- **Optimization - How is Uranium Fever optimized?**  
+- **Optimization - How is Nuclear Sunset optimized?**  
   - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. These are subsequently further adjusted by SNIFF when appropriate. Animations are compressed then BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
 
 - **Optional Mods - How do I use the bundled optional mods?**
-  - Instructions are provided in the [Optional Mods](https://uraniumfever.net/docs/main/setup#-optional-mods-) section.
+  - Instructions are provided in the [Optional Mods](https://nuclearsunset.net/docs/main/setup#-optional-mods-) section.
 
-- **Other Modded Instances - Can I keep my other modded setups while playing Uranium Fever?**  
-  - Yes. Uranium Fever is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
+- **Other Modded Instances - Can I keep my other modded setups while playing Nuclear Sunset?**  
+  - Yes. Nuclear Sunset is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
 
-- **Overwolf - Can I use Overwolf with Uranium Fever?**
+- **Overwolf - Can I use Overwolf with Nuclear Sunset?**
   - No. Overwolf causes the game to crash.
 
 - **Pagefile - Should I increase the pagefile size for New Vegas?**  
@@ -324,15 +324,15 @@ Expand - Troubleshooting Steps
   - You died. Try a different method of activating the purifier.
 
 - **Radiation - ___ is too irradiated to complete! What can I do?**
-  - Use a combination of a Radiation Suits, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the [uf-bug-reports](https://discord.gg/WswmBGXQZt) Discord channel.
+  - Use a combination of a Radiation Suits, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the (TODO: Add link) [bug-reports] Discord channel.
 
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
   - This is intentional to prevent significant performance degradation.
 
 - **Runtime Error - I’m getting a runtime error at launch. Why?**  
-  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will repair any errors and will be much quicker than the initial installation.
+  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Nuclear Sunset Wabbajack Installer to correct the error. This will repair any errors and will be much quicker than the initial installation.
 
-- **Saving - How does saving work in Uranium Fever?**
+- **Saving - How does saving work in Nuclear Sunset?**
   - In addition to manual saves, there is an auto-save function that rotates through 10 auto-saves on one minute save intervals.
 
 - **Shadows - Why do my shadows suddenly jump, rather than move continuously?**
@@ -341,16 +341,16 @@ Expand - Troubleshooting Steps
 - **Shimmering/Sparkling/Firefly Objects - Why do some objects shimmer?**  
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
-- **Size - Why is Uranium Fever so large?**  
+- **Size - Why is Nuclear Sunset so large?**  
   - Despite optimizations, the list's texture enhancements are extensive, with the original downloads alone requiring 50GB.
 
-- **Skill Tags - How do skill tags work in Uranium Fever? I do not see the 15 point increase I am used to?**
-  - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
+- **Skill Tags - How do skill tags work in Nuclear Sunset? I do not see the 15 point increase I am used to?**
+  - Nuclear Sunset uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
  
 - **Sky - Why is my sky black? How do I fix it?**
-  - You used the `Low` preset in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-), which breaks critical rendering functions.
+  - You used the `Low` preset in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-), which breaks critical rendering functions.
 
-- **SPECIAL - What do SPECIAL do in Uranium Fever?**
+- **SPECIAL - What do SPECIAL do in Nuclear Sunset?**
   - **All SPECIALS:**
     - All grant extra items in starting gear in both Wastelands and various DLCs.
     - Contribute the the players size during character creaton.
@@ -409,8 +409,8 @@ Expand - Troubleshooting Steps
 - **Sped-up Game - Why is my game sped-up?**
   - Cap your FPS below 120, this is a byproduct of exceeding the maximum capable FPS.
 
-- **Start - For some reason my game launches with unmodded Fallout: New Vegas instead of Uranium Fever. How do I fix it?**
-  - This is due to incorrect filepaths. Rerun the Uranium Fever Wabbajack installer. This process will repair errors and is much quicker than the initial installation.
+- **Start - For some reason my game launches with unmodded Fallout: New Vegas instead of Nuclear Sunset. How do I fix it?**
+  - This is due to incorrect filepaths. Rerun the Nuclear Sunset Wabbajack installer. This process will repair errors and is much quicker than the initial installation.
 
 - **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**  
   - Select `memory` when prompted after leaving the Vault 101 cave.
@@ -418,10 +418,10 @@ Expand - Troubleshooting Steps
 - **Start - Which Wasteland should I choose to start in?**
   - Either! Mechanics are in place to promote balance regardless of starting location.
 
-- **Storage - What can be safely deleted/uninstalled after Uranium Fever installation?**
-  - Fallout 3 can be uninstalled from Steam/GOG and the `Uranium Fever > Downloads` folder can be deleted (though much of this will be redownloaded during updates).
+- **Storage - What can be safely deleted/uninstalled after Nuclear Sunset installation?**
+  - Fallout 3 can be uninstalled from Steam/GOG and the `Nuclear Sunset > Downloads` folder can be deleted (though much of this will be redownloaded during updates).
 
-- **Tale of Two Wastelands - Is TTW required for Uranium Fever?**  
+- **Tale of Two Wastelands - Is TTW required for Nuclear Sunset?**  
   - Yes. The modlist cannot be installed or used without TTW.
 
 - **Traits - I can choose 99 traits. Is this a bug?**  
@@ -436,7 +436,7 @@ Expand - Troubleshooting Steps
 - **Tweaks - Can I change settings in Stewie's Tweaks?**
   - Doing so is considered modifying the list and will invalidate support.
 
-- **Ultrawide - Can I use an ultrawide resolution with Uranium Fever?**  
+- **Ultrawide - Can I use an ultrawide resolution with Nuclear Sunset?**  
   - Yes. Enable the appropriate preset corresponding to your monitor's aspect ratio in the `Optional - Settings` separator in Mod Organizer 2.
  
 - **Updates - Will updating impact my saves?**  
@@ -446,10 +446,10 @@ Expand - Troubleshooting Steps
   - No. Unless instructed otherwise, you should not manually update any mods.
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
-  - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
+  - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Nuclear Sunset. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
 
-- **Wabbajack - The Uranium Fever installation froze in Wabbajack. What do I do?**
-  - Re-run the `Uranium Fever.wabbajack` installer. The installer will resume where it left off, correcting any errors that occurred along the way.
+- **Wabbajack - The Nuclear Sunset installation froze in Wabbajack. What do I do?**
+  - Re-run the `Nuclear Sunset.wabbajack` installer. The installer will resume where it left off, correcting any errors that occurred along the way.
 
 - **Weapon Sway - Why does my weapon sway around my crosshair?**
   - You do not meet the required SPECIAL and weapon skill recommended in order to use the weapon, which are specified in the weapon statstics once you hover over the weapon in the Pip-Boy.

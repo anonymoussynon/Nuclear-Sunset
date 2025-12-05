@@ -7,24 +7,24 @@ sidebar_label: Troubleshooting
 # ![Banner Troubleshooting](https://github.com/user-attachments/assets/95f45159-0f7c-4a72-ae88-825327a70434)
 
 :::tip
-This page contains various Uranium Fever troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) or Uranium Fever authors.
+This page contains various Nuclear Sunset troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://nuclearsunset.net/docs/main/faq) or Nuclear Sunset authors.
 :::
 
 ### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
 
 :::warning Pre-Bundled DXVK
-The latest version of DXVK comes included with Uranium Fever.
+The latest version of DXVK comes included with Nuclear Sunset.
 
 Intel iGPUs and older GPUs without Vulkan support are incompatible with the bundled version of DXVK and must instead use a downgraded version.
 :::
 
 - **Intel iGPU users:**
-	- Navigate to the `C:\Modding\Uranium Fever\DXVK\DXVK 1.10.1` folder.
-	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+	- Navigate to the `C:\Modding\Nuclear Sunset\DXVK\DXVK 1.10.1` folder.
+	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 - **GPUs without Vulkan support:**
-	- Navigate to the `C:\Modding\Uranium Fever\DXVK\DXVK 1.10.3` folder.
-	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+	- Navigate to the `C:\Modding\Nuclear Sunset\DXVK\DXVK 1.10.3` folder.
+	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
 :::tip Why?

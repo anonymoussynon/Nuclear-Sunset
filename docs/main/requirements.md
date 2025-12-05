@@ -8,7 +8,7 @@ sidebar_label: Requirements
 # ![Banner Requirements](https://github.com/user-attachments/assets/0aa618c5-2251-43c6-9aec-1f8382993885)
 
 :::important PATIENCE, COMPUTER EXPERIENCE, AND TIME ARE REQUIRED
-Uranium Fever’s instructions are designed to be accessible for all users, regardless of modding experience. However, it is **REQUIRED** to thoroughly read each instruction, even if you consider yourself experienced enough to skip steps. While no prior modding knowledge is necessary, a general proficiency in computer operations is expected.
+Nuclear Sunset’s instructions are designed to be accessible for all users, regardless of modding experience. However, it is **REQUIRED** to thoroughly read each instruction, even if you consider yourself experienced enough to skip steps. While no prior modding knowledge is necessary, a general proficiency in computer operations is expected.
 :::
 
 - Legally purchased copies of *Fallout: New Vegas*, *Fallout 3*, and all DLCs for both games.
@@ -17,7 +17,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
   - Windows Store and Gamepass versions of Fallout: New Vegas **ARE NOT** compatible.
   - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 :::warning Controller Support
-[Controller support](https://uraniumfever.net/docs/main/controller) is ONLY provided for Steam users due to technical limitations associated with GOG installations.
+[Controller support](https://nuclearsunset.net/docs/main/controller) is ONLY provided for Steam users due to technical limitations associated with GOG installations.
 :::
 - Legal and activated copy of Windows 10 or higher (64-bit).
 - The latest drivers for your GPU.

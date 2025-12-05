@@ -9,8 +9,8 @@ We only support Steam users with Steam Input. Unfortunately there are no viable 
 :::
 
 :::tip Controller Configs Zip File
-Per the instructions below, copy/paste the folders from this file into your Uranium Fever/mods folder. 
-**[Uranium Fever Controller Instructions September 2025.zip](https://github.com/user-attachments/files/22192735/Uranium.Fever.Controller.Instructions.September.2025.zip)**
+Per the instructions below, copy/paste the folders from this file into your Nuclear Sunset/mods folder. 
+**[Nuclear Sunset Controller Instructions September 2025.zip](https://github.com/user-attachments/files/22192735/Nuclear.Sunset.Controller.Instructions.September.2025.zip)**
 :::danger **REINSTALL AFTER EVERY UPDATE**
 :::
 

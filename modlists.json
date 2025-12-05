@@ -1,10 +1,9 @@
 [
   {
-    "title": "Uranium Fever",
-    "description": "Uranium Fever (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, focused on modernizing, expanding, rebalancing, and enhancing all aspects of both games. Designed for a hardcore gameplay experience, UF draws inspiration from renowned survival-horror titles like STALKER and Resident Evil. UF strives to integrate new content thoughtfully and rapidly. Every addition and configuration is carefully evaluated, and exclusive optimizations ensure stable performance despite the extensive modlist. We consider UF to be the most visually stunning, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!",
-    "author": "Kam, Dark, Sneeze, Dok, Lime, \u0026 Cat",
+    "title": "Nuclear Sunset",
+    "description": "Nuclear Sunset (NS) is a complete overhaul of Fallout: New Vegas and Fallout 3, focused on modernizing, expanding, rebalancing, and enhancing all aspects of both games. Designed for a hardcore gameplay experience, NS draws inspiration from renowned survival-horror titles like STALKER and Resident Evil. NS strives to integrate new content thoughtfully and rapidly. Every addition and configuration is carefully evaluated, and exclusive optimizations ensure stable performance despite the extensive modlist. We consider NS to be the most visually stunning, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!",
+    "author": "Dark, Sneeze, Dok, Lime, \u0026 Cat",
     "maintainers": [
-      "github/Nickchapman3773",
       "github/DarkSolarLegend",
       "github/anonymoussynon"
     ],
@@ -23,10 +22,11 @@
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
+    // TODO: All this will need changed to Nuclear Sunset
     "links": {
       "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
       "readme": "https://uraniumfever.net/",
-      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_70b03793-9fdd-4964-9436-4f99dcc5d9c1",
+      "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_70b03793-9fdd-4964-9436-4f99dcc5d9c1",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu",
       "websiteURL": "https://uraniumfever.net/"
@@ -40,7 +40,7 @@
       "SizeOfInstalledFiles": 90905791290,
       "TotalSize": 167923962444
     },
-    "version": "1.5.0.4",
+    "version": "1.0.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-09-20T04:01:17.1506909Z",
     "repositoryName": ""

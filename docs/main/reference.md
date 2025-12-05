@@ -84,7 +84,7 @@ sidebar_label: Mod Feature Reference List
   - Activate with `V`.
 
 - **Keybind Quick Display:**
-  - View all custom keybinds in Uranium Fever.
+  - View all custom keybinds in Nuclear Sunset.
   - Open Pause Menu, press `K`.
 
 - **Mod Delivery (Optional):**
