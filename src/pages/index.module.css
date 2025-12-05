@@ -5,6 +5,12 @@
 .heroBanner {
   padding: 0;
   height: 75vmin;
+  background-size: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
   text-align: center;
   position: relative;
   overflow: hidden;
