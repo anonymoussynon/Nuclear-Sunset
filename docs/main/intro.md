@@ -19,7 +19,7 @@ sidebar_label: Intro
 :::
 
 # <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
-# <p align="center"> [Showcase](https://nuclearsunset.net/docs/gallery/userinterface/) </p>
+# <p align="center"> [Showcase](https://nuclearsunset.com/docs/gallery/userinterface/) </p>
 
 :::danger **Trigger Warning**
 Some content in Nuclear Sunset contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, bright flashing lights, and intense audio cues. Please proceed with caution.

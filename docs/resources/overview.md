@@ -9,5 +9,5 @@ sidebar_label: Resources Overview
 This section of the website includes a variety of community resources in a centralized location for easy access.
 
 :::warning Not for Nuclear Sunset Users!
-This section is not for Nuclear Sunset users unless specifically linked to in the [Frequently Asked Questions](https://nuclearsunset.net/docs/main/faq)! Everything else included in these sections aside from the [Loseless Scaling Guide](https://nuclearsunset.net/docs/resources/lossless) has been pre-configured and included in Nuclear Sunset.
+This section is not for Nuclear Sunset users unless specifically linked to in the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq)! Everything else included in these sections aside from the [Loseless Scaling Guide](https://nuclearsunset.com/docs/resources/lossless) has been pre-configured and included in Nuclear Sunset.
 :::

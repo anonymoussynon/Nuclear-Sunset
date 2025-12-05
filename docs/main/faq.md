@@ -17,10 +17,10 @@ For any installation errors, launch crashes, or launch freezes, perform these st
 Expand - Troubleshooting Steps
 </summary>
 
-- Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://nuclearsunset.net/docs/main/requirements).
-- Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Nuclear Sunset](https://nuclearsunset.net/docs/main/setup#-installing-nuclear-sunset-).
-- Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://nuclearsunset.net/docs/main/requirements).
-- Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://nuclearsunset.net/docs/main/setup#-creating-antivirus-exclusions-).
+- Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://nuclearsunset.com/docs/main/requirements).
+- Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Nuclear Sunset](https://nuclearsunset.com/docs/main/setup#-installing-nuclear-sunset-).
+- Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://nuclearsunset.com/docs/main/requirements).
+- Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://nuclearsunset.com/docs/main/setup#-creating-antivirus-exclusions-).
 - Disable or uninstall any 3rd party antivirus.
 - Disable any VPN.
 - Disable any overlay like Steam, Overwolf, Afterburner, Discord, Nvidia, etc. | Xbox Game Bar does not need disabling.
@@ -30,9 +30,9 @@ Expand - Troubleshooting Steps
 - Restart your computer.
 - Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizer 2.
 - Re-run the Nuclear Sunset Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
-- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.net/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
-- Repeat the [Running 4GB Patcher](https://nuclearsunset.net/docs/main/setup#-running-4gb-patcher-) step.
-- If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.net/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://nuclearsunset.com/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Nuclear Sunset > Mods` folder.
+- Repeat the [Running 4GB Patcher](https://nuclearsunset.com/docs/main/setup#-running-4gb-patcher-) step.
+- If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://nuclearsunset.com/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If issues persist, delete the `Nuclear Sunset` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Nuclear Sunset > [NoDelete] Stock New Vegas > Crash Logs`) in the (TODO: Add link) [support-unmodified-list] Discord channel.
 </details>
@@ -73,12 +73,12 @@ Expand - Troubleshooting Steps
   - **Other** - Other unnoted types of ammo (SWC, JSP, Match, etc) are special ammo types that typically trump standard ammo types in some fashion.
 
 - **Application Load Error P:0000065432 - How do I fix this error?**
-  - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-).
+  - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-).
 - **Application Load Error P:0000065434 - How do I fix this error?**
-  - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://nuclearsunset.net/docs/main/setup#-generating-fresh-ini-files-) and [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-) steps.
+  - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://nuclearsunset.com/docs/main/setup#-generating-fresh-ini-files-) and [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-) steps.
 
 - **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
-  - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://nuclearsunset.net/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
+  - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://nuclearsunset.com/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
  
 - **Black screen with crash when launching?**
   - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Nuclear Sunset folder, and launch from MO2 as normal.
@@ -103,7 +103,7 @@ Expand - Troubleshooting Steps
   - The recruitment of companions is dependent on the player's permanent charisma (this does not take modifiers such as equipment or chems into account. The player can recruit one companion at 4 charisma, two companions at 7 charisma, and 3 companions at 10 charisma.
 
 - **Controller Support - Is there controller support?**
-  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.net/docs/main/controller).
+  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://nuclearsunset.com/docs/main/controller).
 
 - **Console Commands - Can I safely use console commands when playing?**
   - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
@@ -164,7 +164,7 @@ Expand - Troubleshooting Steps
   - It is been removed due to unresolvable bugs in the base implementation.
 
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
-  - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://nuclearsunset.net/docs/main/requirements).
+  - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://nuclearsunset.com/docs/main/requirements).
 
 - **Failed or Slow Nexus Downloads - Why are my downloads slow or failing?**  
   - Relog into your Nexus account in the Wabbajack settings.
@@ -195,12 +195,12 @@ Expand - Troubleshooting Steps
   - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Nuclear Sunset has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
 - **FPS/Stutter - How can I increase FPS/Reduce Stutter in Nuclear Sunset?**  
-  - If using NVIDIA, ensure that the [Applying NVIDIA Profile](https://nuclearsunset.net/docs/main/setup#-nvidia-users---applying-nvidia-profile-) instructions have been followed.
-  - If using AMD, ensure that the [Disabling Ultra-Low Power State (ULPS)](https://nuclearsunset.net/docs/main/setup#-amd-users---disabling-ultra-low-power-state-ulps-) instructions have been followed.
-  - Reduce the [Nuclear Sunset Profile](https://nuclearsunset.net/docs/main/setup#-selecting-a-nuclear-sunset-profile-) quality.
-  - Reduce the `Detail` quality in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-).
-  - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
-  - Consider trying [Lossless Scaling](https://nuclearsunset.net/docs/resources/lossless).
+  - If using NVIDIA, ensure that the [Applying NVIDIA Profile](https://nuclearsunset.com/docs/main/setup#-nvidia-users---applying-nvidia-profile-) instructions have been followed.
+  - If using AMD, ensure that the [Disabling Ultra-Low Power State (ULPS)](https://nuclearsunset.com/docs/main/setup#-amd-users---disabling-ultra-low-power-state-ulps-) instructions have been followed.
+  - Reduce the [Nuclear Sunset Profile](https://nuclearsunset.com/docs/main/setup#-selecting-a-nuclear-sunset-profile-) quality.
+  - Reduce the `Detail` quality in [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-).
+  - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
+  - Consider trying [Lossless Scaling](https://nuclearsunset.com/docs/resources/lossless).
     - Please note that the Nuclear Sunset team has no affiliation with Lossless Scaling and does not provide support for it.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
@@ -216,7 +216,7 @@ Expand - Troubleshooting Steps
   - No. Many mods in Nuclear Sunset rely on hardcore mode, and the list is designed around it.
 
 - **Hardercore - What changes does the Hardercore Optional Mod change?**  
-  - The changes for hardercore can be found in the [Optional Mods Section](https://nuclearsunset.net/docs/main/setup#-optional-mods-) of the Setup Instructions
+  - The changes for hardercore can be found in the [Optional Mods Section](https://nuclearsunset.com/docs/main/setup#-optional-mods-) of the Setup Instructions
 
 - **Healing - When I pay a doctor to heal me, I do not heal fully. Why?**  
   - This is an intentional balance design. You will need to pay for several different healing sessions or heal through other means to fully heal.
@@ -300,7 +300,7 @@ Expand - Troubleshooting Steps
   - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. These are subsequently further adjusted by SNIFF when appropriate. Animations are compressed then BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
 
 - **Optional Mods - How do I use the bundled optional mods?**
-  - Instructions are provided in the [Optional Mods](https://nuclearsunset.net/docs/main/setup#-optional-mods-) section.
+  - Instructions are provided in the [Optional Mods](https://nuclearsunset.com/docs/main/setup#-optional-mods-) section.
 
 - **Other Modded Instances - Can I keep my other modded setups while playing Nuclear Sunset?**  
   - Yes. Nuclear Sunset is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
@@ -348,7 +348,7 @@ Expand - Troubleshooting Steps
   - Nuclear Sunset uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
  
 - **Sky - Why is my sky black? How do I fix it?**
-  - You used the `Low` preset in [Configuring Game Settings](https://nuclearsunset.net/docs/main/setup#-configuring-game-settings-), which breaks critical rendering functions.
+  - You used the `Low` preset in [Configuring Game Settings](https://nuclearsunset.com/docs/main/setup#-configuring-game-settings-), which breaks critical rendering functions.
 
 - **SPECIAL - What do SPECIAL do in Nuclear Sunset?**
   - **All SPECIALS:**

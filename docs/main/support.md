@@ -17,7 +17,7 @@ sidebar_label: Support, Feedback, & Updates
 
   ![image](https://github.com/user-attachments/assets/bcb70754-f74e-4dc2-8d84-f785f0b77f96)
 
-- Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://nuclearsunset.net/docs/main/faq).
+- Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq).
 - Prior to posting bug reports, perform a search in the (TODO: Add link) [bug-reports] Discord channel to ensure the bug has not already been reported previously.
 - Prior to posting suggestions, perform a search in the (TODO: Add link) [suggestions] Discord channel to ensure the suggestion has not been made previously.
 
