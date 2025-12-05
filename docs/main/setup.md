@@ -365,7 +365,7 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 - In MO2, select `Nuclear Sunset` from the dropdown menu, then choose a profile.
 
   ![NS Profile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
-
+ 
   - **Ultra Quality Profile**:
   	- Enables all mods and settings.
   - **High Quality Profile**:
