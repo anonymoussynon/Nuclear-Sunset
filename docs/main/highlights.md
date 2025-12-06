@@ -7,7 +7,7 @@ sidebar_label: Mod Highlights
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/caf31ed8-931a-4026-89ef-ddc30501eed7)
 
-# <p align="left"> ![Balance](https://github.com/user-attachments/assets/716b74a8-c617-4735-8216-1af7ce5fc407) </p>
+# ![Balance](https://github.com/user-attachments/assets/716b74a8-c617-4735-8216-1af7ce5fc407) </p>
 
 - [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts gameplay elements like damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn for a challenging experience.
 - [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Makes the barter skill central to a more punishing economy.
