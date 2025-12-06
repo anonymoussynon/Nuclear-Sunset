@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Mod Highlights
 ---
 
-# ![Banner Mod Highlights](https://github.com/user-attachments/assets/04a080db-7406-45cf-8cc9-3bb18be1f018)
+# ![Banner Mod Highlights](https://github.com/user-attachments/assets/1f4979c7-e8a3-4eb0-9403-a12ffe0b082f)
 
 # <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
 
