@@ -6,9 +6,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: auto;
-  width: auto;
-  background: #282a36 url("/static/img/nuclearsunsetbanner.png") center center;
+  height: 100%;
+  width: 50%;
+  background: #282a36 url("/static/img/nuclearsunsetbanner.png");
   background-size: cover;
   background-position: center;
 }
