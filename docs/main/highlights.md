@@ -9,8 +9,6 @@ sidebar_label: Mod Highlights
 
 # ![Balance](https://github.com/user-attachments/assets/6047bc7c-7a35-45f5-8de3-cfdbd961deb7)
 <br></br>
-<br></br>
-<br></br>
 
 - [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts gameplay elements like damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn for a challenging experience.
 - [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Makes the barter skill central to a more punishing economy.
@@ -34,7 +32,11 @@ sidebar_label: Mod Highlights
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
 - [Life After Death](https://www.nexusmods.com/newvegas/mods/92244) - Adds punishments to death and reloads to prevent abuse of the save reload cycle.
 
+<br></br>
+<br></br>
+
 # ![Functions](https://github.com/user-attachments/assets/dad5f059-943a-4575-ad91-6de8a559b2d1)
+<br></br>
 
 - [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds environmental hazard consequences like fire and toxic sludge.
 - [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
@@ -44,7 +46,11 @@ sidebar_label: Mod Highlights
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
+<br></br>
+<br></br>
+
 # ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0)
+<br></br>
 
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
 - [Goodies](https://www.nexusmods.com/newvegas/mods/91028) - Restores a large selection of cut content.
@@ -61,6 +67,9 @@ sidebar_label: Mod Highlights
 - [Capital Wasteland Landscape](https://www.nexusmods.com/newvegas/mods/91506) - Overhauls landscape and clutter across the Capital Wasteland.
 - [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867) - Overhauls landscape abd clutter across the Mojave Wasteland.
 - [Northern Greenery](https://www.nexusmods.com/newvegas/mods/84773) - Overhauls landscape in the Northern region of the Capital Wasteland.
+
+<br></br>
+<br></br>
 
 # ![Content](https://github.com/user-attachments/assets/7bd3606f-ddc0-4114-a5e4-ea31e1f9ea0a)
 
