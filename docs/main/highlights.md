@@ -5,9 +5,9 @@ hide_title: true
 sidebar_label: Mod Highlights
 ---
 
-# ![Banner Mod Highlights](https://github.com/user-attachments/assets/ceeeba48-c46f-4967-bc31-113113b96a1c)
+# ![Banner Mod Highlights](https://github.com/user-attachments/assets/caf31ed8-931a-4026-89ef-ddc30501eed7)
 
-# <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
+# <p align="left"> ![Balance](https://github.com/user-attachments/assets/716b74a8-c617-4735-8216-1af7ce5fc407) </p>
 
 - [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts gameplay elements like damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn for a challenging experience.
 - [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Makes the barter skill central to a more punishing economy.
@@ -41,7 +41,7 @@ sidebar_label: Mod Highlights
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
-# <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0" />) </p>
+# <p align="left"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0) </p>
 
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
 - [Goodies](https://www.nexusmods.com/newvegas/mods/91028) - Restores a large selection of cut content.
