@@ -3,6 +3,10 @@
  * and scoped locally.
  */
 .heroBanner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
   background: #282a36 url("/static/img/nuclearsunsetbanner.png") center center;
   background-size: cover;
   background-position: center;
