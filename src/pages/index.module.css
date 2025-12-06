@@ -3,11 +3,10 @@
  * and scoped locally.
  */
 .heroBanner {
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   background: url("/static/img/nuclearsunsetbanner.png");
-  height: 82vmin;
 }
 
 @media screen and (max-width: 996px) {
