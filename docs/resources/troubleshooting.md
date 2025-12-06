@@ -4,7 +4,8 @@ hide_title: true
 sidebar_label: Troubleshooting
 ---
 
-# ![Banner Troubleshooting](https://github.com/user-attachments/assets/95f45159-0f7c-4a72-ae88-825327a70434)
+# ![Banner Troubleshooting](https://github.com/user-attachments/assets/ec9f604c-6306-4b72-9a5d-aad58a3b0234)
+
 
 :::tip
 This page contains various Nuclear Sunset troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) or Nuclear Sunset authors.
