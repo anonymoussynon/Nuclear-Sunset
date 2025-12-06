@@ -27,6 +27,9 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 	- Navigate to the `C:\Modding\Nuclear Sunset\DXVK\DXVK 1.10.3` folder.
 	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/cb9d52c1-c9a8-403d-86f9-3261bddca031) </p>
 
 :::tip Why?
