@@ -3,12 +3,12 @@
  * and scoped locally.
  */
 .heroBanner {
-  display: block;
-  align-items: center;
-  justify-content: center;
+  padding: 0;
+  height: 75vmin;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
   background: url("/static/img/nuclearsunsetbanner.png");
-  max-width: 100%;
-  height: auto;
 }
 
 @media screen and (max-width: 996px) {
