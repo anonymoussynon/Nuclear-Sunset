@@ -5,8 +5,9 @@
 .heroBanner {
   justify-content: center;
   align-items: center;
-  background: #282a36 url("/static/img/nuclearsunsetbanner.png");
-  background-size: contain;
+  background: url("/static/img/nuclearsunsetbanner.png");
+  background-repeat: no-repeat;
+  background-size: auto;
   background-position: center;
 }
 
