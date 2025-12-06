@@ -6,7 +6,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 1200px;
+  height: 1000px;
+  width: 100%;
   background: #282a36 url("/static/img/nuclearsunsetbanner.png") center center;
   background-size: cover;
   background-position: center;
