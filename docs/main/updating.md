@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Updating Nuclear Sunset
 ---
 
-# ![Banner Updating Nuclear Sunset](https://github.com/user-attachments/assets/50f8351b-d958-41d5-a6c8-a0b8e412c52d)
+# ![Banner Updating Nuclear Sunset](https://github.com/user-attachments/assets/dfa2eb5c-89a5-4583-8b2c-c8c3166a96cb)
 
 - To update the list, re-run the `Nuclear Sunset Wabbajack Installer` by repeating the steps outlined in the [Installing Nuclear Sunset](https://nuclearsunset.com/docs/main/setup#-installing-nuclear-sunset-) section.
 - Follow any additional instructions outlined in the `Changelog`.
