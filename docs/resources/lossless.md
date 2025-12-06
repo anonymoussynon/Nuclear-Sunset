@@ -17,7 +17,7 @@ sidebar_label: Lossless Scaling Guide
 The Nuclear Sunset team will not provide support for the Lossless Scaling application.
 :::
 
-- Purchase, download, install, and launch [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/).
+- Purchase, download, install, and launch **[Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/)**.
 Configure the settings to match the following screenshot:
 
    ![LS](https://github.com/user-attachments/assets/1817e1e3-b3f4-4df5-802c-636405ffb377)
