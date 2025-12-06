@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: Lossless Scaling Guide  
 ---
 
-# ![Lossless Scaling Guide](https://github.com/user-attachments/assets/07045411-183d-4b5c-9031-dbf8b9a226fc)
+# ![Lossless Scaling Guide](https://github.com/user-attachments/assets/f45d9afb-92b4-4474-bed1-51adc63a62dd)
 
 :::danger Optional Paid Application
 - Lossless Scaling is **NOT** required for Nuclear Sunset or modded Fallout: New Vegas. However, it is a powerful tool that can significantly boost FPS, potentially doubling or tripling performance.
