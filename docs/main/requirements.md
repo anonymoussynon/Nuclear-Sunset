@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Requirements
 ---
 
-# ![Banner Requirements](https://github.com/user-attachments/assets/0aa618c5-2251-43c6-9aec-1f8382993885)
+# ![Banner Requirements](https://github.com/user-attachments/assets/75de7141-7d12-47b7-8ad1-770c0637a73d)
 
 :::important PATIENCE, COMPUTER EXPERIENCE, AND TIME ARE REQUIRED
 Nuclear Sunset’s instructions are designed to be accessible for all users, regardless of modding experience. However, it is **REQUIRED** to thoroughly read each instruction, even if you consider yourself experienced enough to skip steps. While no prior modding knowledge is necessary, a general proficiency in computer operations is expected.
