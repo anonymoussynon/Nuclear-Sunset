@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Frequently Asked Questions
 ---
 
-# ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
+# ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/75ff4d9d-f408-4a7c-b2d5-315bf2758679)
 
 :::tip
 To find information quickly, use `Ctrl + F` to search for relevant keywords.
