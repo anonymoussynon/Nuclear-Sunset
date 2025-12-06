@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Features
 ---
 
-# ![Banner Features](https://github.com/user-attachments/assets/7372d422-b00e-4d2f-8fe0-0f7b40179203)
+# ![Banner Features](https://github.com/user-attachments/assets/5f5627d6-f200-459f-8e1d-6e343d12bd29)
 
 - A robust array of utilities, frameworks, fixes, and quality-of-life improvements.
 - Meticulously crafted settings for each mod.
