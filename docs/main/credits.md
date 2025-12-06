@@ -10,7 +10,8 @@ sidebar_label: Credits & Thanks
 **Nuclear Sunset** is authored and supported by [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), [Lime](https://next.nexusmods.com/profile/LimeMods), and [FinalCatalyst](https://next.nexusmods.com/profile/FinalCatalyst), but it would not be possible without the numerous contributions from:
 
 - **The entire Nuclear Sunset community!**
-- The expansive team of testers who helped troubleshoot early iterations of the list and provided invaluable suggestions.
+- The Uranium Fever Community, as Nuclear Sunset is built off of Uranium Fever.
+- [Kamchatkaa](https://next.nexusmods.com/profile/kamchatkaa/mods) as one of the original heads of Uranium Fever.
 - **All** of the incredible mod authors whose work made NS possible.
 - The [Wabbajack](https://www.wabbajack.org/) team, particularly [JanuarySnow](https://github.com/JanuarySnow), [TDarkShadow](https://github.com/TDarkShadow), and [Trawzified](https://github.com/tr4wzified), for extensive troubleshooting support and fixing various Wabbajack engine bugs discovered during NS’s development.
 - [Bethesda](https://bethesda.net) and [Obsidian](https://www.obsidian.net) for creating the games and assets used in NS and for supporting the ongoing work of the modding community.
